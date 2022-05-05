@@ -10,7 +10,6 @@
 <h4 align="center">- 🤓 Always learning new things</h4>
 <h4 align="center">- 📫 How to reach me: dursunipk@gmail.com</h4>
 <h2 align="center">🔥 Streak Stats 🔥</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dursunipek&theme=gruvbox" alt="Dursunipek" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dursunipek&theme=gruvbox" alt="Dursunipek" /></p>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Dursunipek&theme=gruvbox" alt="Dursunipek" /></p>
 
