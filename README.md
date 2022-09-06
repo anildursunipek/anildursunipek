@@ -1,7 +1,7 @@
 
 <!--
 **Dursunipek/dursunipek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1 align="center">Hi , I'm Dursun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Anıl Dursun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <h3 align="center">## :sassy_man:  About me</h3><hr>
 <h4 align="center">- 🔭 I’m a computer engineering student at Bursa Uludag University</h4>
