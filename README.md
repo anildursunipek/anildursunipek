@@ -11,6 +11,5 @@
 <h4 align="center">- 📫 How to reach me: anildursunipek@gmail.com</h4>
 <h2 align="center">🔥 Streak Stats 🔥</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anildursunipek&theme=gruvbox" alt="anildursunipek" /></p>
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anildursunipek&theme=gruvbox" alt="anildursunipek" /></p>
 
 
